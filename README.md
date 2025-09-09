@@ -15,15 +15,3 @@ DSA_Problems/
 ├── weird_algorithm.py     # Weird Algorithm implementation
 └── .gitignore            # Git ignore rules for Python projects
 ```
-
-## How to Run
-
-Each solution can be run using Python 3:
-
-```bash
-python weird_algorithm.py
-```
-
-## Contributing
-
-Feel free to add more problems and solutions to this collection.
