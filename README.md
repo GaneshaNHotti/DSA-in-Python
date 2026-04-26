@@ -17,7 +17,7 @@ This repository contains my Python solutions for Data Structures and Algorithms 
 | Codeforces | [231A - Team](https://codeforces.com/problemset/problem/231/A) | Count how many problems the team is confident enough to solve. | [Python](CodeForces_Code/team.py) |
 | Codeforces | [282A - Bit++](https://codeforces.com/problemset/problem/282/A) | Simulate increment and decrement operations on a variable. | [Python](CodeForces_Code/bit++.py) |
 | Codeforces | [158A - Next Round](https://codeforces.com/problemset/problem/158/A) | Count how many contestants advance to the next round. | [Python](CodeForces_Code/next_round.py) |
-| Codeforces | Candies for Nephews | Problem solution included in the repository. | [Python](CodeForces_Code/candies_for_newphews.py) |
+| Codeforces | [A.Candies for Nephews](https://codeforces.com/problemset/problem/2145/A) | Problem solution included in the repository. | [Python](CodeForces_Code/candies_for_newphews.py) |
 
 ## Notes
 
