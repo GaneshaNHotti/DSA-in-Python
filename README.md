@@ -1,20 +1,25 @@
-# DSA Problems Collection
+# DSA in Python
 
-This repository contains solutions to various Data Structures and Algorithm problems.
+This repository contains my Python solutions for Data Structures and Algorithms problems from platforms like CSES and Codeforces.
 
-## Problems List
+## Solved Problems
 
-| Problem Name                                                            | Description                                                                                                                                                                                                                                                                  | Solution                               |
-|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| [Weird Algorithm](https://cses.fi/problemset/task/1068/)                | Given a number n, if n is even divide it by 2, if n is odd multiply it by 3 and add 1. Repeat this process until n becomes 1.                                                                                                                                                | [Python](weird_algorithm.py)           |
-| [Missing Number](https://cses.fi/problemset/task/1083/)                 | You are given all numbers between 1,2,...,n except one. Your task is to find the missing number.                                                                                                                                                                             | [Python](missing_number.py)            |
-| [Repetitions](https://cses.fi/problemset/task/1069/)                    | You are given a DNA sequence: a string consisting of characters A, C, G, and T. Your task is to find the longest repetition in the sequence. This is a maximum-length substring containing only one type of character.                                                       | [Python](repetitions.py)               |
-| [Increasing Array](https://cses.fi/problemset/task/1094/)               | You are given an array of n integers. You want to modify the array so that it is increasing, i.e., every element is at least as large as the previous element. On each move, you may increase the value of any element by one. What is the minimum number of moves required? | [Python](increasing_array.py)          |
-| [Permutations](https://cses.fi/problemset/task/1070/)                   | A permutation of integers 1,2,...,n is called beautiful if there are no adjacent elements whose difference is 1.                                                                                                                                                             | [Python](permutations.py)              |
-| [Number Spiral](https://cses.fi/problemset/task/1071/)                  | A number spiral is an infinite grid whose upper-left square has number 1. Here are the first five layers of the spiral: Your task is to find out the number in row y and column x.                                                                                           | [Python](number_spiral.py)             |
-| [A Watermelon](https://codeforces.com/problemset/problem/4/A)           | Code Forces                                                                                                                                                                                                                                                                  | [Python](CodeForces_Code/watermelon.py) |
-| [231A - Team](https://codeforces.com/problemset/problem/231/A)                | Code Forces                                                                                                                                                                                                                                                                  | [Python](CodeForces_Code/team.py)      |
-| [282A - Bit++](https://codeforces.com/problemset/problem/282/A)                | Code Forces                                                                                                                                                                                                                                                                  | [Python](CodeForces_Code/bit++.py)     |
-| [158A - Next Round](https://codeforces.com/problemset/problem/158/A)                | Code Forces                                                                                                                                                                                                                                                                  | [Python](CodeForces_Code/next_round.py) |
-| [Candies for Nephews]()                | Code Forces                                                                                                                                                                                                                                                                  | [Python](CodeForces_Code/candies_for_newphews.py)             |
+| Platform | Problem | Description | Solution |
+|----------|---------|-------------|----------|
+| CSES | [Weird Algorithm](https://cses.fi/problemset/task/1068/) | Generate the Collatz sequence starting from `n` until it reaches `1`. | [Python](CSES/weird_algorithm.py) |
+| CSES | [Missing Number](https://cses.fi/problemset/task/1083/) | Find the missing value from the numbers `1` to `n`. | [Python](CSES/missing_number.py) |
+| CSES | [Repetitions](https://cses.fi/problemset/task/1069/) | Find the longest substring consisting of one repeated character. | [Python](CSES/repetitions.py) |
+| CSES | [Increasing Array](https://cses.fi/problemset/task/1094/) | Count the minimum moves needed to make the array non-decreasing. | [Python](CSES/increasing_array.py) |
+| CSES | [Permutations](https://cses.fi/problemset/task/1070/) | Construct a permutation where adjacent numbers never differ by `1`. | [Python](CSES/permutations.py) |
+| CSES | [Number Spiral](https://cses.fi/problemset/task/1071/) | Find the value at position `(y, x)` in the number spiral. | [Python](CSES/number_spiral.py) |
+| CSES | [Two Knights](https://cses.fi/problemset/task/1072/) | Count the number of ways to place two knights on a `k x k` board so they do not attack each other. | [Python](CSES/two_knights.py) |
+| Codeforces | [4A - Watermelon](https://codeforces.com/problemset/problem/4/A) | Determine whether a watermelon can be split into two even positive parts. | [Python](CodeForces_Code/watermelon.py) |
+| Codeforces | [231A - Team](https://codeforces.com/problemset/problem/231/A) | Count how many problems the team is confident enough to solve. | [Python](CodeForces_Code/team.py) |
+| Codeforces | [282A - Bit++](https://codeforces.com/problemset/problem/282/A) | Simulate increment and decrement operations on a variable. | [Python](CodeForces_Code/bit++.py) |
+| Codeforces | [158A - Next Round](https://codeforces.com/problemset/problem/158/A) | Count how many contestants advance to the next round. | [Python](CodeForces_Code/next_round.py) |
+| Codeforces | Candies for Nephews | Problem solution included in the repository. | [Python](CodeForces_Code/candies_for_newphews.py) |
 
+## Notes
+
+- All solutions are written in Python.
+- Problems are added one by one as I continue practicing.
