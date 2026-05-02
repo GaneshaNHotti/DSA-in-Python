@@ -19,7 +19,7 @@ This repository contains my Python solutions for Data Structures and Algorithms 
 | Codeforces | [282A - Bit++](https://codeforces.com/problemset/problem/282/A) | Simulate increment and decrement operations on a variable. | [Python](CodeForces_Code/bit++.py) |
 | Codeforces | [158A - Next Round](https://codeforces.com/problemset/problem/158/A) | Count how many contestants advance to the next round. | [Python](CodeForces_Code/next_round.py) |
 | Codeforces | [A.Candies for Nephews](https://codeforces.com/problemset/problem/2145/A) | Problem solution included in the repository. | [Python](CodeForces_Code/candies_for_newphews.py) |
-
+| CSES | [Bit Strings](https://cses.fi/problemset/task/1617/) | Your task is to calculate the number of bit strings of length n | [Python](CSES/bit_strings.py) |
 ## Notes
 
 - All solutions are written in Python.
